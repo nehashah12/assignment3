@@ -6,7 +6,8 @@
 </head>
 <body>
 background-color: #fff
-@font-family-base
+<a href= "www.google.com">Google</a>
+@link-color: blue
 </body>
 <div class = "containter">
 </div>
